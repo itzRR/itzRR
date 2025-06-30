@@ -2,12 +2,6 @@
   <img src="assets/banner.png" alt="Banner" />
 </p>
 
-```text
-  ______  ______
- |_____/ |_____/
- |    \_ |    \_
-```
-
 ### 🧙‍♂️ PLAYER PROFILE
 
 ![Level](https://img.shields.io/badge/Level-26-6A5ACD?style=for-the-badge&logo=level&logoColor=white)
