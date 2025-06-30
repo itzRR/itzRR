@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner1.gif" alt="Banner" />
+  <img src="assets/banner3.gif" alt="Banner" />
 </p>
 
 ### 🧙‍♂️ PLAYER PROFILE
