@@ -45,6 +45,8 @@
 **Frontend**  
 ![React](https://img.shields.io/badge/ReactJS-%E2%9C%94-61DAFB?style=for-the-badge&logo=react)  
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-Stylish-38B2AC?style=for-the-badge&logo=tailwindcss)
+![HTML](https://img.shields.io/badge/HTML5-Structured-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-Styled-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Mobile Dev**  
 ![ReactNative](https://img.shields.io/badge/React_Native-Skill+20-61DAFB?style=for-the-badge&logo=react)
