@@ -10,7 +10,9 @@
 ![Stamina](https://img.shields.io/badge/Stamina-90%25-green?style=for-the-badge&logo=powerbi)
 
 🧑‍💻 Class: Full-Stack Dev  
+
 🧠 Specialties: React Native, AI Tools, UI/UX  
+
 ⚡️ Alignment: Creative Coder + Visual Builder
 
 ---
@@ -24,8 +26,11 @@
 
 
 🎮 Building mobile apps with deep UI polish  
+
 🌐 Scaling modern web platforms  
+
 ⚙️ Tinkering with React Native animations + Reanimated 3  
+
 🧱 Studying clean system design for large apps
 
 ---
@@ -36,7 +41,6 @@
  __|__ |  \_|   \/   |______ |  \_|    |    |_____| |    \_    |   
 ```
 
-### 🛠️ INVENTORY (Tech Stack)
 
 **Languages**  
 ![JS](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -66,15 +70,14 @@
  |       |_____| |__|__| |______ |    \_     |_____| |       ______|
                                                                     
 ```
-🧠 DEV STATS & POWER-UPS
 
-- 📈 Top GitHub Tools: GitHub Projects, GitHub Actions, GitHub Copilot
+📈 Top GitHub Tools: GitHub Projects, GitHub Actions, GitHub Copilot
 
-- 💻 Daily Weapons: VSCode, Insomnia, Chrome DevTools
+💻 Daily Weapons: VSCode, Insomnia, Chrome DevTools
 
-- 🧠 Strongest Perks: Fast learning, smooth animations, clean UI/UX thinking
+🧠 Strongest Perks: Fast learning, smooth animations, clean UI/UX thinking
 
-- 🔮 Special Buff: Turning ideas into working MVPs — fast
+🔮 Special Buff: Turning ideas into working MVPs — fast
 ---
 ```text
  _______  _____  __   _ _______ _______ _______ _______
@@ -82,11 +85,13 @@
  |_____  |_____| |  \_|    |    |     | |_____     |   
 ```
 
-### 📬 CONTACT THE PLAYER
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rehan-bandara-582088346)  
-- 📧 [rrbandara505@gmail.com](mailto:rrbandara505@gmail.com)  
-- 😎 Fun Fact: I mix game logic and design flow into *real apps people actually enjoy using*.
+
+🌐 [LinkedIn](https://www.linkedin.com/in/rehan-bandara-582088346)  
+
+📧 [rrbandara505@gmail.com](mailto:rrbandara505@gmail.com)  
+
+😎 Fun Fact: I mix game logic and design flow into *real apps people actually enjoy using*.
 
 ---
 
