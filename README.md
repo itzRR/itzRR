@@ -4,7 +4,7 @@
 
 ### 🧙‍♂️ PLAYER PROFILE
 
-![Level](https://img.shields.io/badge/Level-26-6A5ACD?style=for-the-badge&logo=level&logoColor=white)
+![Level](https://img.shields.io/badge/Level-23-6A5ACD?style=for-the-badge&logo=level&logoColor=white)
 ![XP](https://img.shields.io/badge/XP-14,300%2F15,000-yellowgreen?style=for-the-badge&logo=apachespark)
 ![Mana](https://img.shields.io/badge/Mana-High-blue?style=for-the-badge&logo=magic-the-gathering)
 ![Stamina](https://img.shields.io/badge/Stamina-90%25-green?style=for-the-badge&logo=powerbi)
