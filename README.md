@@ -66,14 +66,14 @@
 ```
 🧠 DEV STATS & POWER-UPS
 
-📈 Top GitHub Tools: GitHub Projects, GitHub Actions, GitHub Copilot
+- 📈 Top GitHub Tools: GitHub Projects, GitHub Actions, GitHub Copilot
 
-💻 Daily Weapons: VSCode, Insomnia, Chrome DevTools
+- 💻 Daily Weapons: VSCode, Insomnia, Chrome DevTools
 
-🧠 Strongest Perks: Fast learning, smooth animations, clean UI/UX thinking
+- 🧠 Strongest Perks: Fast learning, smooth animations, clean UI/UX thinking
 
-🔮 Special Buff: Turning ideas into working MVPs — fast
-
+- 🔮 Special Buff: Turning ideas into working MVPs — fast
+---
 ```text
  _______  _____  __   _ _______ _______ _______ _______
  |       |     | | \  |    |    |_____| |          |   
