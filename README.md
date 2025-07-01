@@ -1,7 +1,12 @@
 <p align="center">
   <img src="assets/banner3.gif" alt="Banner" />
 </p>
-
+```text
+  _____   ______  _____  _______ _____        _______
+ |_____] |_____/ |     | |______   |   |      |______
+ |       |    \_ |_____| |       __|__ |_____ |______
+                                                     
+```
 ### 🧙‍♂️ PLAYER PROFILE
 
 ![Level](https://img.shields.io/badge/Level-23-6A5ACD?style=for-the-badge&logo=level&logoColor=white)
