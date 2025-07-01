@@ -78,6 +78,7 @@
 🧠 Strongest Perks: Fast learning, smooth animations, clean UI/UX thinking
 
 🔮 Special Buff: Turning ideas into working MVPs — fast
+
 ---
 ```text
  _______  _____  __   _ _______ _______ _______ _______
