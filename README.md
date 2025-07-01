@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner3.gif" alt="Banner" />
+  <img src="assets/banner3.gif" alt="Banner" width="800"/>
 </p>
 
 ### 🧙‍♂️ PLAYER PROFILE
@@ -58,7 +58,24 @@
 ![Git](https://img.shields.io/badge/Git-Versioned-F05032?style=for-the-badge&logo=git)
 
 ---
+```text
 
+  _____   _____  _  _  _ _______  ______     _     _  _____  _______
+ |_____] |     | |  |  | |______ |_____/ ___ |     | |_____] |______
+ |       |_____| |__|__| |______ |    \_     |_____| |       ______|
+                                                                    
+ 
+```
+🧠 DEV STATS & POWER-UPS
+
+📈 Top GitHub Tools: GitHub Projects, GitHub Actions, GitHub Copilot
+
+💻 Daily Weapons: VSCode, Insomnia, Chrome DevTools
+
+🧠 Strongest Perks: Fast learning, smooth animations, clean UI/UX thinking
+
+🔮 Special Buff: Turning ideas into working MVPs — fast
+---
 ```text
  _______  _____  __   _ _______ _______ _______ _______
  |       |     | | \  |    |    |_____| |          |   
