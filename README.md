@@ -59,12 +59,10 @@
 
 ---
 ```text
-
   _____   _____  _  _  _ _______  ______     _     _  _____  _______
  |_____] |     | |  |  | |______ |_____/ ___ |     | |_____] |______
  |       |_____| |__|__| |______ |    \_     |_____| |       ______|
                                                                     
- 
 ```
 🧠 DEV STATS & POWER-UPS
 
@@ -75,7 +73,7 @@
 🧠 Strongest Perks: Fast learning, smooth animations, clean UI/UX thinking
 
 🔮 Special Buff: Turning ideas into working MVPs — fast
----
+
 ```text
  _______  _____  __   _ _______ _______ _______ _______
  |       |     | | \  |    |    |_____| |          |   
