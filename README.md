@@ -21,12 +21,12 @@
  |____\| |_____| |______ ______|    |    ______|
 ```
 
-### 🎯 ACTIVE QUESTS
 
-- 🎮 Building mobile apps with deep UI polish  
-- 🌐 Scaling modern web platforms  
-- ⚙️ Tinkering with React Native animations + Reanimated 3  
-- 🧱 Studying clean system design for large apps
+
+🎮 Building mobile apps with deep UI polish  
+🌐 Scaling modern web platforms  
+⚙️ Tinkering with React Native animations + Reanimated 3  
+🧱 Studying clean system design for large apps
 
 ---
 
