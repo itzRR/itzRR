@@ -1,11 +1,6 @@
 <p align="center">
   <img src="assets/banner3.gif" alt="Banner" />
 </p>
-```text
-  ______  ______
- |_____/ |_____/
- |    \_ |    \_
-```
 
 ### 🧙‍♂️ PLAYER PROFILE
 
