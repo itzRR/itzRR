@@ -58,12 +58,7 @@
 ![Git](https://img.shields.io/badge/Git-Versioned-F05032?style=for-the-badge&logo=git)
 
 ---
-pie title Skill Distribution
-    "Frontend Sorcery" : 45
-    "Mobile Alchemy" : 30
-    "Backend Wizardry" : 20
-    "UI/UX Enchantment" : 5
----
+
 ```text
  _______  _____  __   _ _______ _______ _______ _______
  |       |     | | \  |    |    |_____| |          |   
