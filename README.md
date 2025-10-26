@@ -88,7 +88,7 @@
 
 
 
-🌐 [LinkedIn](https://www.linkedin.com/in/rehan-bandara-582088346)  
+🌐 [LinkedIn](https://www.linkedin.com/in/rehan-bandara)  
 
 📧 [rrbandara505@gmail.com](mailto:rrbandara505@gmail.com)  
 
@@ -99,3 +99,4 @@
 > 🧠 *“Code like it’s a speedrun. Design like it’s a boss fight.”*
 
 ---
+
