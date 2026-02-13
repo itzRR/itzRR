@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner3.gif" alt="Banner" width="800"/>
+  <img src="assets/banner2.gif" alt="Banner" width="800"/>
 </p>
 
 ### 🧙‍♂️ PLAYER PROFILE
@@ -99,4 +99,5 @@
 > 🧠 *“Code like it’s a speedrun. Design like it’s a boss fight.”*
 
 ---
+
 
