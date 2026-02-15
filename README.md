@@ -102,7 +102,7 @@
 📧 [rrbandara505@gmail.com](mailto:rrbandara505@gmail.com)  
 
 <p align="center">
-  <em>🎮 “I mix game logic and design flow to build apps people genuinely enjoy using.”</em>
+  <em>🎮 “I blend game logic with design flow to build web and mobile experiences people genuinely enjoy using.”</em>
 </p>
 
 ---
@@ -118,6 +118,7 @@
 <p align="center">
   <em>⚡ End of Transmission • RR Protocol Active ⚡</em>
 </p>
+
 
 
 
