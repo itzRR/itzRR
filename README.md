@@ -101,7 +101,10 @@
 🌐 [LinkedIn](https://www.linkedin.com/in/rehan-bandara)  
 📧 [rrbandara505@gmail.com](mailto:rrbandara505@gmail.com)  
 
-😎 **Fun Fact:** I mix game logic and design flow into real apps people actually enjoy using.
+<p align="center">
+  <em>🎮 “I mix game logic and design flow to build apps people genuinely enjoy using.”</em>
+</p>
+
 ---
 
 <p align="center">
@@ -115,5 +118,6 @@
 <p align="center">
   <em>⚡ End of Transmission • RR Protocol Active ⚡</em>
 </p>
+
 
 
