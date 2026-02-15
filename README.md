@@ -1,7 +1,7 @@
 <h1 align="center">⚡ REHAN BANDARA ⚡</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • UI Architect • Cyberpunk Builder</strong>
+  <strong>Full-Stack Developer • Software engineer</strong>
 </p>
 
 <p align="center">
@@ -115,4 +115,5 @@
 <p align="center">
   <em>⚡ End of Transmission • RR Protocol Active ⚡</em>
 </p>
+
 
