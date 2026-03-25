@@ -46,7 +46,7 @@ hostProfile.execute();
 
 ---
 
-### 🌐 `THE_MAINFRAME` (ACTIVE PROTOCOLS)
+### 🌐 `THE_MAINFRAME`
 
 | Project Name | Designation | Status |
 | :--- | :--- | :--- |
@@ -57,11 +57,9 @@ hostProfile.execute();
 | **[SmartToDo](#)** | AI To-Do Agent (Google x Kaggle Capstone) | `Archived` 🧠 |
 | **[Ceylon Unscripted](#)**| Travel & Experience Brand | `Building` 🌴 |
 
-*(Replace the `#` links with your actual repository or live URLs)*
-
 ---
 
-### 🏙️ `SYSTEM_ARCHITECTURE` (3D CONTRIBUTION CITY)
+### 🏙️ `SYSTEM_ARCHITECTURE`
 
 <div align="center">
   <img alt="3D Isometric Contribution Graph" src="https://raw.githubusercontent.com/itzRR/itzRR/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" style="border-radius: 12px; border: 1px solid #1f2937;">
