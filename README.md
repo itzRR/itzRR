@@ -92,12 +92,15 @@ hostProfile.execute();
 <br/>
 
 <div align="center">
-  <a href="mailto:rrbandara505@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL_ME-00F0FF?style=flat-square&logo=gmail&logoColor=0D1117" />
-  </a>
-  <a href="https://www.linkedin.com/in/rehan-bandara">
-    <img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=flat-square&logo=linkedin&logoColor=0D1117" />
-  </a>
+
+<a href="mailto:rrbandara505@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0D1117" />
+</a>
+
+<a href="https://www.linkedin.com/in/rehan-bandara">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117" />
+</a>
+
 </div>
 
 <br/>
