@@ -88,15 +88,15 @@ hostProfile.execute();
 
 ---
 
-### 📡 `ESTABLISH_CONNECTION`
+### 📡 ESTABLISH_CONNECTION
 <br/>
 
 <div align="center">
   <a href="mailto:rrbandara505@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL%20ME-0D1117?style=for-the-badge&logo=Gmail&logoColor=00F0FF" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL%20ME-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" />
   </a>
   <a href="https://www.linkedin.com/in/rehan-bandara">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=00F0FF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" />
   </a>
 </div>
 
