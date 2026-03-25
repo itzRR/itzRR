@@ -65,7 +65,13 @@ hostProfile.execute();
   <img alt="3D Isometric Contribution Graph" src="https://raw.githubusercontent.com/itzRR/itzRR/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" style="border-radius: 12px; border: 1px solid #1f2937;">
 </div>
 
+<br/>
+<br/>
+<br/>
+
 ---
+
+<br/>
 
 ### 📊 `TELEMETRY_DATA`
 
