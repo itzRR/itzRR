@@ -98,7 +98,7 @@ hostProfile.execute();
 </a>
 
 <a href="https://www.linkedin.com/in/rehan-bandara">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" style="background:#0D1117;padding:10px;border-radius:8px;border:1px solid #00F0FF;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 </div>
