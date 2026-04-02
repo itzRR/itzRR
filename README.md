@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f0c29,100:00F0FF&height=260&section=header&text=REHAN%20BANDARA&fontSize=65&fontColor=00F0FF&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20UI%2FUX%20Architect&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f0c29,100:00F0FF&height=260&section=header&text=REHAN%20BANDARA&fontSize=65&fontColor=00F0FF&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Web%20Developer&descAlignY=55&descSize=20"/>
 
 <a href="https://github.com/itzRR">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=System+Booting...;Engineering+Cinematic+Web+Experiences;React+%7C+React+Native+%7C+Node.js;Crafting+High-Performance+Digital+Worlds" alt="Typing effect" />
