@@ -50,12 +50,12 @@ hostProfile.execute();
 
 | Project Name | Designation | Status |
 | :--- | :--- | :--- |
-| **[Nyxbot](#)** | AI-Powered Chatbot Web Application | `Deployed` ⚡ |
-| **[FormRushX](#)** | Modern, High-Speed Web Form Builder | `Deployed` ⚡ |
-| **[Midnight Circuit](#)**| Web Agency & Digital Solutions Hub | `Active` 🌐 |
-| **[Circuit Core](#)**| Tech Hardware & Computer Systems | `Active` ⚙️ |
-| **[SmartToDo](#)** | AI To-Do Agent (Google x Kaggle Capstone) | `Archived` 🧠 |
-| **[Ceylon Unscripted](#)**| Travel & Experience Brand | `Building` 🌴 |
+| **[Nyxbot](https://nyxbott.web.app/)** | AI-Powered Chatbot Web Application | `Deployed` ⚡ |
+| **[FormRushX](https://formrushx.web.app/)** | Modern, High-Speed Web Form Builder | `Deployed` ⚡ |
+| **[Midnight Circuit](https://midnight-circuit.web.app/)**| Web Agency & Digital Solutions Hub | `Active` 🌐 |
+| **[Circuit Core](https://circuitcore.lk/)**| Tech Hardware & Computer Systems | `Active` ⚙️ |
+| **[Liora Log](https://lioralogg.web.app/)** | AI - Research Progress Tracker | `Active` 🧠 |
+| **[Ceylon Unscripted](https://ceylon-unscripted.web.app/)**| Travel & Experience Brand | `Building` 🌴 |
 
 ---
 
