@@ -1,27 +1,38 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Runs at 18:00 UTC every day
+  schedule:
     - cron: "0 18 * * *"
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      - name: Commit and push generated files
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
           git add -A .
+
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Generated 3D Contribution City"
             git push
+          fi
